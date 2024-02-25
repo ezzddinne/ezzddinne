@@ -1,9 +1,7 @@
 - 👋 # Hi there!
 I'm Ezzddinne Mhamdi, a passionate cybersecurity enthusiast with a strong interest in Penetration Testing and DevOps.
 
-<div align="center">
-  <img height="200" src="[https://github.com/ezzddinne/ezzddinne/blob/main/banner.png]"  />
-</div>
+!(https://github.com/ezzddinne/ezzddinne/blob/main/banner.png)
 
 ###
 
