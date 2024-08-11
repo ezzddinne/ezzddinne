@@ -3,7 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezzddinne" alt="ezzddinne" /></a> </p>
 
-- 🔭 I’m currently working on **Enhancing my skills in cloud architecture and infrastructure automation.**
+- 🔭 I’m currently working on :
+    **Enhancing my skills in cloud architecture and infrastructure automation.**
+    **Exploring new DevOps tools and best practices.**
+    **Contributing to open-source DevOps projects.**
 
 - 📝 I regularly write articles on [https://medium.com/@ezzddinne.mhamdi](https://medium.com/@ezzddinne.mhamdi)
 
