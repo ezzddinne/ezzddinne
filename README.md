@@ -1,4 +1,3 @@
-![Ezzddinne Mhamdi - DevOps & Cloud Engineer](https://www.dropbox.com/scl/fi/lnhrkft1y2lpumjbvtwqi/1721669836248.jpg?rlkey=ehb6jsnc9q0g263d4mm59qd29&st=01wx3z13&dl=0)
 <h1 align="center">Hi 👋, I'm Ezzddinne Mhamdi</h1>
 <h3 align="center">I'm a passionate DevOps and Cloud Engineer student with a strong focus on automation, cloud infrastructure, and continuous integration/continuous deployment (CI/CD). I am committed to leveraging cutting-edge technologies to solve complex problems and enhance productivity.</h3>
 
