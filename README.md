@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ezzddinne.mhamdi@gmail.com**
 
-- My Google Developer account : on [https://g.dev/ezzddinne](https://g.dev/ezzddinne)
+- My Google Developer account : [https://g.dev/ezzddinne](https://g.dev/ezzddinne)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
