@@ -254,23 +254,19 @@ Centralized monitoring and observability solution for infrastructure and contain
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ezzddine-mhamdi/)">
   <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:ezzddinne.mhamdi@outlook.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://ezzddinnemhamdi.dev">
   <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://x.com/YOUR_HANDLE">
-  <img src="https://img.shields.io/badge/X/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://dev.to/YOUR_USERNAME">
+<a href="[https://dev.to/YOUR_USERNAME](https://dev.to/ezzddinne)">
   <img src="https://img.shields.io/badge/Blog-Technical_Writing-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
 
