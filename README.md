@@ -1,31 +1,285 @@
-<h1 align="center">Hi 👋, I'm Ezzddinne Mhamdi</h1>
-<h3 align="center">I'm a passionate DevOps and Cloud Engineer student with a strong focus on automation, cloud infrastructure, and continuous integration/continuous deployment (CI/CD). I am committed to leveraging cutting-edge technologies to solve complex problems and enhance productivity.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezzddinne" alt="ezzddinne" /></a> </p>
+# Hi, I'm Ezzddine Mhamdi 👋
 
-- 🔭 I’m currently working on :
-   - Enhancing my skills in cloud architecture and infrastructure automation.
-   - Exploring new DevOps tools and best practices.
-   - Contributing to open-source DevOps projects.
+### Platform Engineer • DevOps Engineer • Cloud & Kubernetes Enthusiast
 
-- 📝 I regularly write articles on [https://medium.com/@ezzddinne.mhamdi](https://medium.com/@ezzddinne.mhamdi)
+Building scalable cloud platforms, automating infrastructure, and improving developer experience through modern Platform Engineering practices.
 
-- 📫 How to reach me **ezzddinne.mhamdi@gmail.com**
-
-- My Google Developer account : [https://g.dev/ezzddinne](https://g.dev/ezzddinne)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/ezzddinne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ezzddinne" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ezzddine-mhamdi-37317020a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezzddine-mhamdi-37317020a/" height="30" width="40" /></a>
-<a href="https://medium.com/@ezzddinne.mhamdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ezzddinne.mhamdi" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Platform+Engineering;Cloud+Infrastructure+Automation;Kubernetes+%26+GitOps;CI%2FCD+%26+Developer+Platforms;Scalable+Systems+%26+Reliability" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Platform%20Engineering-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Kubernetes%20%26%20DevOps-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Infrastructure-Automation-111827?style=for-the-badge" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezzddinne&show_icons=true&locale=en&layout=compact" alt="ezzddinne" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezzddinne&show_icons=true&locale=en" alt="ezzddinne" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezzddinne&" alt="ezzddinne" /></p>
+# About Me
+
+I'm a Junior Platform Engineer and DevOps Engineer focused on designing reliable, scalable, and automated cloud infrastructure.
+
+My interests revolve around Kubernetes ecosystems, Infrastructure as Code, GitOps workflows, CI/CD automation, and building Internal Developer Platforms that improve engineering productivity and operational consistency.
+
+I enjoy working on systems that reduce operational complexity, standardize deployments, and enable developers to ship faster with confidence.
+
+Currently exploring:
+- Kubernetes platform architecture
+- GitOps & declarative infrastructure
+- Cloud-native tooling
+- Developer Experience (DevEx)
+- Infrastructure automation at scale
+- Reliability engineering principles
+
+---
+
+# Platform Engineering Focus
+
+```yaml
+Platform Engineering:
+  - Kubernetes & Cloud-Native Infrastructure
+  - GitOps Workflows
+  - Internal Developer Platforms (IDP)
+  - Infrastructure Automation
+  - Self-Service Engineering Platforms
+  - CI/CD Standardization
+  - Scalability & Reliability
+  - Developer Experience (DevEx)
+  - Observability & Monitoring
+  - Infrastructure Security
+```
+
+I’m particularly interested in building modern engineering platforms that abstract infrastructure complexity while enabling development teams to move faster, safer, and more efficiently.
+
+---
+
+# Tech Stack
+
+## Cloud & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+---
+
+## Containers & Orchestration
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+</p>
+
+---
+
+## CI/CD & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+---
+
+## Infrastructure as Code
+
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Crossplane-3B82F6?style=for-the-badge"/>
+</p>
+
+---
+
+## Monitoring & Observability
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
+</p>
+
+---
+
+## Programming & Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
+
+---
+
+## Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+---
+
+# Featured Projects
+
+## Kubernetes Platform
+
+### Cloud-Native Kubernetes Environment
+Production-style Kubernetes platform focused on scalability, GitOps workflows, observability, and deployment automation.
+
+**Tech Stack:** Kubernetes, Helm, ArgoCD, Prometheus, Grafana, Docker
+
+**Engineering Value:**
+- Standardized deployments
+- Improved scalability
+- Automated delivery pipelines
+- Enhanced reliability and observability
+
+---
+
+## GitOps Deployment System
+
+### Declarative Infrastructure & Application Delivery
+GitOps-based deployment workflow enabling automated and auditable application delivery across environments.
+
+**Tech Stack:** ArgoCD, Kubernetes, GitHub Actions, Helm
+
+**Engineering Value:**
+- Infrastructure consistency
+- Faster deployments
+- Reduced manual operations
+- Version-controlled environments
+
+---
+
+## CI/CD Automation Pipeline
+
+### End-to-End Delivery Automation
+Automated CI/CD pipelines for building, testing, scanning, and deploying containerized applications.
+
+**Tech Stack:** GitHub Actions, Docker, Kubernetes, Jenkins
+
+**Engineering Value:**
+- Faster release cycles
+- Improved deployment quality
+- Reduced operational overhead
+- Automated validation workflows
+
+---
+
+## Infrastructure Provisioning Platform
+
+### Infrastructure as Code Environment
+Automated cloud infrastructure provisioning using Infrastructure as Code principles and reusable templates.
+
+**Tech Stack:** Terraform, Ansible, AWS
+
+**Engineering Value:**
+- Repeatable infrastructure
+- Reduced configuration drift
+- Faster environment provisioning
+- Scalable infrastructure management
+
+---
+
+## Monitoring & Observability Stack
+
+### Reliability & System Visibility Platform
+Centralized monitoring and observability solution for infrastructure and containerized workloads.
+
+**Tech Stack:** Prometheus, Grafana, ELK Stack
+
+**Engineering Value:**
+- Real-time monitoring
+- Centralized logging
+- Performance visibility
+- Faster incident troubleshooting
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Engineering Principles
+
+- Build scalable and maintainable systems
+- Automate repetitive operational tasks
+- Prioritize reliability and observability
+- Improve developer workflows and productivity
+- Treat infrastructure as software
+- Focus on consistency, security, and simplicity
+
+---
+
+# Current Focus
+
+```text
+→ Kubernetes & Platform Engineering
+→ GitOps & Declarative Infrastructure
+→ Internal Developer Platforms (IDP)
+→ Cloud Infrastructure Automation
+→ CI/CD Optimization
+→ Reliability Engineering
+→ Developer Experience (DevEx)
+```
+
+---
+
+# Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://x.com/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/X/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Blog-Technical_Writing-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Engineering platforms that enable teams to build faster, safer, and at scale."
+
+</div>
